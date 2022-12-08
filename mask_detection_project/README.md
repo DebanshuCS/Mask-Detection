@@ -41,9 +41,3 @@ For executing this file you have to type this command in Command Prompt/Terminal
 python detect_mask_video.py
 
 This file will initiate the webcam video and it will detect the Mask & No Mask
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
