@@ -9,7 +9,7 @@ Files :
 3. mask_detector.model
 4. examples folder
 5. face_detector folder
-\
+
 How to Use?
 
 1. Install the required libraries of Python :
