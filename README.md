@@ -16,7 +16,7 @@
 
 You can install it via pip install command. Suppose you want to install keras library, then you can run this command in Command Prompt/Terminal
 
-pip install keras
+`pip install keras`
 
 Similarly you have to install all libraries that are used in this project.
 
@@ -26,7 +26,7 @@ To detect whether a person has mask on his face or not, you have to use detect_m
 
 For executing this file you have to type this command in Command Prompt/Terminal
 
-python detect_mask_image.py --image examples/example_01.png
+`python detect_mask_image.py --image examples/example_01.png`
 
 Here example_01.png is the image file which will be used for detecting whether there is mask or not.
 
@@ -34,11 +34,11 @@ When you will run this file : the deep learning model will detect the mask and o
 
 **3. Detect Mask from Video :**
 
-To detect the mask from the video (webcam) you have to use the detect_mask_video.py file
+To detect the mask from the video (webcam) you have to use the `detect_mask_video.py` file
 
 For executing this file you have to type this command in Command Prompt/Terminal
 
-`python detect_mask_video.py`python detect_mask_video.py
+`python detect_mask_video.py`
 
 This file will initiate the webcam video and it will detect the Mask & No Mask
 
