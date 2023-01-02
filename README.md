@@ -12,7 +12,7 @@
 
 ### How to Use?
 
-** 1. Install the required libraries of Python : **
+**1. Install the required libraries of Python :**
 
 You can install it via pip install command. Suppose you want to install keras library, then you can run this command in Command Prompt/Terminal
 
@@ -20,7 +20,7 @@ pip install keras
 
 Similarly you have to install all libraries that are used in this project.
 
-** 2. Detect Mask from Image : **
+**2. Detect Mask from Image :**
 
 To detect whether a person has mask on his face or not, you have to use detect_mask_image.py file
 
@@ -32,13 +32,13 @@ Here example_01.png is the image file which will be used for detecting whether t
 
 When you will run this file : the deep learning model will detect the mask and output image with detected label (Mask or No Mask) will be shown.
 
-** 3. Detect Mask from Video : **
+**3. Detect Mask from Video :**
 
 To detect the mask from the video (webcam) you have to use the detect_mask_video.py file
 
 For executing this file you have to type this command in Command Prompt/Terminal
 
-python detect_mask_video.py
+`python detect_mask_video.py`python detect_mask_video.py
 
 This file will initiate the webcam video and it will detect the Mask & No Mask
 
