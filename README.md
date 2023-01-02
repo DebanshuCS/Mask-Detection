@@ -1,7 +1,7 @@
 
-# Mask Detection
+# Mask Detection using AI
 
-## Name of Project : Mask Detection using AI
+![detected](https://user-images.githubusercontent.com/118846871/210235996-1f6555e2-4936-46da-8e72-a88eb771b63d.jpg)
 
 **Files :**
 1. detect_mask_image.py
@@ -42,7 +42,7 @@ For executing this file you have to type this command in Command Prompt/Terminal
 
 This file will initiate the webcam video and it will detect the Mask & No Mask
 
-![detected](https://user-images.githubusercontent.com/118846871/210235996-1f6555e2-4936-46da-8e72-a88eb771b63d.jpg)
+
 
 
 
