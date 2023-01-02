@@ -40,7 +40,12 @@ For executing this file you have to type this command in Command Prompt/Terminal
 
 `python detect_mask_video.py`
 
-This file will initiate the webcam video and it will detect the Mask & No Mask
+This file will initiate the webcam video and it will detect the Mask & No Mask.
+
+## Data Flow Diagram 
+
+![DFD](https://user-images.githubusercontent.com/118846871/210236827-86a225e3-c027-4b35-ac1e-70d3fa8ea2f5.jpg)
+
 
 
 
